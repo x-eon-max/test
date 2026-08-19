@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Bouton flottant pour modifier la bannière "Featured" à la volée
-// @match        *://*.LE-SITE-EN-QUESTION.com/*
+// @match        *://*project-kito.com/*
 // @grant        none
 // ==/UserScript==
 
